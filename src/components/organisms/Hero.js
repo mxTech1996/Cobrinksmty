@@ -54,7 +54,7 @@ const Hero = () => {
             className='text-4xl md:text-6xl font-serif text-gray-800 max-w-lg'
             variants={itemVariants}
           >
-            Opportunity to change the lives of others
+            {dataSite.subtitle}
           </motion.h1>
           <motion.a
             href='#products'

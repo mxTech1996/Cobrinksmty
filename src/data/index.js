@@ -45,7 +45,7 @@ export const dataSite = {
   name: 'Cobrinksmty',
   url: 'https://es.wiktionary.org/wiki/hol',
   telephone: '5516857228',
-  email: '',
+  email: 'admcobriks@emailsecure.lat',
   address:
     'ROBLE  660, T CITRUS N3 N 3A, VALLE DEL CAMPESTRE, SAN PEDRO GARZA GARCIA, NUEVO LEON, C.P. 66265',
   description:
